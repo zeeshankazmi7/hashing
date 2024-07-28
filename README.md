@@ -12,4 +12,5 @@ Prerequisites:
   - The csv file named retailer-info.csv should be present in the same directory as the program
 
 How To Use:
-  - 
+  - Run the code in a Python environment
+  - Enter a retailer's name and post code to recieve its corresponding record
